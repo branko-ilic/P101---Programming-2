@@ -1,0 +1,11 @@
+Beograd 43400
+Valjevo 23800.88
+Beograd 88232.22
+Beograd 88232.52
+Sabac 31200
+Lazarevac 44500.32
+Lazarevac 120304.33
+Valjevo 56200
+Beograd 220300
+Lazarevac 76900.23
+Beograd 147500
